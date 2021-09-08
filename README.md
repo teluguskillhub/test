@@ -1,1 +1,4 @@
 # test
+{
+background-color : blue;
+}
